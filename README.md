@@ -1,4 +1,4 @@
-- 👋 Eae, sou o Marcus (plaque700)
+- 👋 Eae, sou o Marcus Braga (plaque700)
 - 👀 Sou apaixonado por Tecnologia no geral, porém tenho o principal foco em  Segurança da Informação e Desenvolvimento Web.
 - 🌱 Atualmente estou estudando melhores praticas de desenvolvimento e também aprendendo Flutter.
 - 💞️ Trabalho atualmente com Desenvolvimento Web/Segurança da Informação.
